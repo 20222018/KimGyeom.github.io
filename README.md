@@ -209,5 +209,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [product-screenshot]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/screenshot.gif
 [github-repo-info]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/github-repo-info.png
 
-git commit --allow-empty -m "rebuild"
-git push origin master
+$ git commit --allow-empty -m "Trigger rebuild"
+$ git push
